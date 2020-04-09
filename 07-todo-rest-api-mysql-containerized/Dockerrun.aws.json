@@ -33,7 +33,7 @@
     },
     {
       "name": "todo-rest-api",
-      "image": "in28min/todo-rest-api-mysql:1.0.0.RELEASE",
+      "image": "jersi2695/todo-rest-api-mysql:1.0.0.RELEASE",
       "essential": true,
       "memory": 256,
       "portMappings": [
